@@ -219,6 +219,9 @@ I'm continuously working on personal projects and improving my development skill
 
 [![YouTube](https://img.shields.io/badge/YouTube-Sana%20Mehboob-FF0000?style=for-the-badge\&logo=youtube\&logoColor=white)](https://www.youtube.com/@sanamehboob19)
 
+[![PORTFOLIO](https://img.shields.io/badge/YouTube-Sana%20Mehboob-FF0000?style=for-the-badge\&logo=youtube\&logoColor=white)](https://sanamehboob19.github.io/portfolio/)
+
+
 ---
 
 ### ⭐ Thanks for visiting my profile!
